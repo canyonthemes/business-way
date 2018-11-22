@@ -1,9 +1,9 @@
 /*
 Theme Name: Business Way
-Theme URI: 
+Theme URI: https://www.canyonthemes.com/downloads/business-way
 Author: canyonthemes
 Author URI: https://www.canyonthemes.com/
-Description: A prefect Free Business WordPress Theme
+Description: A prefect Free Business WordPress Theme. This theme comes with amazing slider, header options, WooCommerce compatibility, multiple blog layouts and many more. In addition, footer section options, sidebar options, pagination types, animation disable options, search placeholder are some added features. Furthermore, home page section options, 9+ added custom widgets, multiple sidebar area, go to top optons etc. Demo: http://canyonthemes.com/demo/business-way/
 Version: 0.0.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -1702,7 +1702,7 @@ p {
 .header-right li a {
     color: #fff;
     background: #021f5a;
-    padding: 11px 40px;
+    padding: 19px 40px;
 }
 /*********************** Header Top End ***************************/
 
@@ -3269,7 +3269,6 @@ ul.quick-link li {
 .social-links ul li a {
     font-size: 0;
     color: transparent;
-    line-height: 75px;
 }
 
 .social-links ul li a:hover {
@@ -3389,7 +3388,12 @@ ul.quick-link li {
 .social-links ul li a[href*="dribble.com"]:before {
     content: "\f17d";
 }
-
+.top-header .social-links ul li a:before{
+    color:#fff;
+}
+.top-header .social-links ul li a:hover{
+    opcity:0.5;
+}
 
 /******************* Footer One Start ********************/
 .footer-one {

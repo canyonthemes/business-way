@@ -26,7 +26,7 @@ if ($section_option =='show') {
         <div class="top-header">
             <div class="container">
                 <?php if( has_nav_menu('social') && 1 == $social_menu ){ ?>
-                    <div class="header-left navbar-left">
+                    <div class="header-left social-links navbar-left">
                        
                             <?php wp_nav_menu(array( 'theme_location' => 'social') ); ?>
                      

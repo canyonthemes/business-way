@@ -1,17 +1,16 @@
 #### Business Way ####
 
 Contributors: canyonthemes
-Tags: custom-logo, one-column, two-columns, right-sidebar, left-sidebar, full-width-template, custom-background, custom-colors, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, blog, portfolio, footer-widgets
+Tags: custom-logo, one-column, two-columns, right-sidebar, left-sidebar, full-width-template, custom-background, custom-colors, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, blog, portfolio, footer-widgets, e-commerce
 Requires at least: 4.6
 Tested up to: 4.9.4
-Stable tag: 0.0.1
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 #### Description ####
 
-A prefect Free Business WordPress Theme
-
+A prefect Free Business WordPress Theme. This theme comes with amazing slider, header options, WooCommerce compatibility, multiple blog layouts and many more. In addition, footer section options, sidebar options, pagination types, animation disable options, search placeholder are some added features. Furthermore, home page section options, 9+ added custom widgets, multiple sidebar area, go to top optons etc. Demo: http://canyonthemes.com/demo/business-way/
 
 #### Installation ####
 
@@ -20,6 +19,11 @@ A prefect Free Business WordPress Theme
 3. Click Activate to use your new theme right away.
 
 #### Changelog ####
+## 1.0.0 - November 22 2018 ##
+* One Click demo import added
+* Fixed customizer issues
+* Managed Custom widgets 
+* Minor CSS changed
 
 ## 0.0.1 - August 23 2018 ##
 * Submitted to WordPress
